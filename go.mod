@@ -1,6 +1,6 @@
 module github.com/redhatinsights/clowder-e2e
 
-go 1.19
+go 1.23
 
 require (
 	github.com/prometheus/client_golang v1.10.0
@@ -16,5 +16,5 @@ require (
 	github.com/prometheus/common v0.20.0 // indirect
 	github.com/prometheus/procfs v0.6.0 // indirect
 	golang.org/x/sys v0.0.0-20210403161142-5e06dd20ab57 // indirect
-	google.golang.org/protobuf v1.26.0 // indirect
+	google.golang.org/protobuf v1.36.11 // indirect
 )
