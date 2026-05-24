@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/prometheus/client_golang v1.10.0
-	github.com/redhatinsights/app-common-go v1.3.0
+	github.com/redhatinsights/app-common-go v1.6.9
 )
 
 require (
